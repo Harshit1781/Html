@@ -171,7 +171,7 @@ head, body {
 @media (max-width : 767px) {
     #d1 {
         margin-top: 60px;
-        margin-left: 30px;
+        margin-left: 40px;
         display: grid;
         grid-template-rows: 1fr 1fr 1fr;
         row-gap: 50px;
